@@ -1,0 +1,75 @@
+D:\Proyek\HR Application\HR Application\bin\HR Application.dll.config
+D:\Proyek\HR Application\HR Application\bin\HR Application.dll
+D:\Proyek\HR Application\HR Application\bin\HR Application.pdb
+D:\Proyek\HR Application\HR Application\bin\roslyn\csc.exe
+D:\Proyek\HR Application\HR Application\bin\roslyn\csc.exe.config
+D:\Proyek\HR Application\HR Application\bin\roslyn\csc.rsp
+D:\Proyek\HR Application\HR Application\bin\roslyn\csi.exe
+D:\Proyek\HR Application\HR Application\bin\roslyn\csi.exe.config
+D:\Proyek\HR Application\HR Application\bin\roslyn\csi.rsp
+D:\Proyek\HR Application\HR Application\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Proyek\HR Application\HR Application\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Proyek\HR Application\HR Application\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Proyek\HR Application\HR Application\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Proyek\HR Application\HR Application\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Proyek\HR Application\HR Application\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Proyek\HR Application\HR Application\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Proyek\HR Application\HR Application\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Proyek\HR Application\HR Application\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Proyek\HR Application\HR Application\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Proyek\HR Application\HR Application\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Proyek\HR Application\HR Application\bin\roslyn\System.AppContext.dll
+D:\Proyek\HR Application\HR Application\bin\roslyn\System.Collections.Immutable.dll
+D:\Proyek\HR Application\HR Application\bin\roslyn\System.Console.dll
+D:\Proyek\HR Application\HR Application\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Proyek\HR Application\HR Application\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Proyek\HR Application\HR Application\bin\roslyn\System.IO.Compression.dll
+D:\Proyek\HR Application\HR Application\bin\roslyn\System.IO.FileSystem.dll
+D:\Proyek\HR Application\HR Application\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Proyek\HR Application\HR Application\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Proyek\HR Application\HR Application\bin\roslyn\System.IO.Pipes.dll
+D:\Proyek\HR Application\HR Application\bin\roslyn\System.Reflection.Metadata.dll
+D:\Proyek\HR Application\HR Application\bin\roslyn\System.Security.AccessControl.dll
+D:\Proyek\HR Application\HR Application\bin\roslyn\System.Security.Claims.dll
+D:\Proyek\HR Application\HR Application\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Proyek\HR Application\HR Application\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Proyek\HR Application\HR Application\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Proyek\HR Application\HR Application\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Proyek\HR Application\HR Application\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Proyek\HR Application\HR Application\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Proyek\HR Application\HR Application\bin\roslyn\System.ValueTuple.dll
+D:\Proyek\HR Application\HR Application\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Proyek\HR Application\HR Application\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Proyek\HR Application\HR Application\bin\roslyn\System.Xml.XPath.dll
+D:\Proyek\HR Application\HR Application\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Proyek\HR Application\HR Application\bin\roslyn\vbc.exe
+D:\Proyek\HR Application\HR Application\bin\roslyn\vbc.exe.config
+D:\Proyek\HR Application\HR Application\bin\roslyn\vbc.rsp
+D:\Proyek\HR Application\HR Application\bin\roslyn\VBCSCompiler.exe
+D:\Proyek\HR Application\HR Application\bin\roslyn\VBCSCompiler.exe.config
+D:\Proyek\HR Application\HR Application\bin\Antlr3.Runtime.dll
+D:\Proyek\HR Application\HR Application\bin\AspNet.ScriptManager.bootstrap.dll
+D:\Proyek\HR Application\HR Application\bin\AspNet.ScriptManager.jQuery.dll
+D:\Proyek\HR Application\HR Application\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\Proyek\HR Application\HR Application\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\Proyek\HR Application\HR Application\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\Proyek\HR Application\HR Application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Proyek\HR Application\HR Application\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\Proyek\HR Application\HR Application\bin\Microsoft.ScriptManager.WebForms.dll
+D:\Proyek\HR Application\HR Application\bin\Microsoft.Web.Infrastructure.dll
+D:\Proyek\HR Application\HR Application\bin\Newtonsoft.Json.dll
+D:\Proyek\HR Application\HR Application\bin\System.Diagnostics.DiagnosticSource.dll
+D:\Proyek\HR Application\HR Application\bin\System.Web.Optimization.dll
+D:\Proyek\HR Application\HR Application\bin\WebGrease.dll
+D:\Proyek\HR Application\HR Application\bin\System.Web.Optimization.xml
+D:\Proyek\HR Application\HR Application\bin\Newtonsoft.Json.xml
+D:\Proyek\HR Application\HR Application\bin\Antlr3.Runtime.pdb
+D:\Proyek\HR Application\HR Application\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\Proyek\HR Application\HR Application\bin\System.Diagnostics.DiagnosticSource.xml
+D:\Proyek\HR Application\HR Application\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\Proyek\HR Application\HR Application\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Proyek\HR Application\HR Application\obj\Debug\HR Application.csprojAssemblyReference.cache
+D:\Proyek\HR Application\HR Application\obj\Debug\HR Application.csproj.CoreCompileInputs.cache
+D:\Proyek\HR Application\HR Application\obj\Debug\HR Application.csproj.CopyComplete
+D:\Proyek\HR Application\HR Application\obj\Debug\HR Application.dll
+D:\Proyek\HR Application\HR Application\obj\Debug\HR Application.pdb
